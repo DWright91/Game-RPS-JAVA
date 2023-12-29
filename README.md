@@ -48,71 +48,38 @@ of which iteration each thread is in.
 Sample output:
 
 Round 992: Player 2 wins!
-
 Round 993: Player 2 selects rock
-
 Round 992: Player 1 loses
-
 Round 993: Player 1 selects scissors
-
 Round 993: Player 1 loses
-
 Round 994: Player 1 selects scissors
-
 Round 993: Player 2 wins!
-
 Round 994: Player 2 selects scissors
-
 Round 994: Player 2: Draw
-
 Round 995: Player 2 selects scissors
-
 Round 994: Player 1: Draw
-
 Round 995: Player 1 selects rock
-
 Round 995: Player 1 wins!
-
 Round 996: Player 1 selects paper
-
 Round 995: Player 2 loses
-
 Round 996: Player 2 selects scissors
-
 Round 996: Player 2 wins!
-
 Round 997: Player 2 selects paper
-
 Round 996: Player 1 loses
-
 Round 997: Player 1 selects scissors
-
 Round 997: Player 1 wins!
-
 Round 998: Player 1 selects rock
-
 Round 997: Player 2 loses
-
 Round 998: Player 2 selects scissors
-
 Round 998: Player 2 loses
-
 Round 999: Player 2 selects scissors
-
 Round 998: Player 1 wins!
-
 Round 999: Player 1 selects scissors
-
 Round 999: Player 1: Draw
-
 Round 999: Player 2: Draw
 
 Summary Statistics:
-
 Number of draws: 343
-
 Number of times scissors won: 235
-
 Number of times rock won: 310
-
 Number of times paper won: 112
