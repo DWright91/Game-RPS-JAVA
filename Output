@@ -1,0 +1,37 @@
+#Output
+
+PROGRAM OUTPUT:
+
+Round 992: Player 1 selects ROCK
+Round 992: Player 2 selects PAPER
+Round: 991 Player 2 wins!
+Round 993: Player 1 selects PAPER
+Round 993: Player 2 selects PAPER
+Draw
+Round 994: Player 1 selects SCISSORS
+Round 994: Player 2 selects PAPER
+Round: 993 Player 1 wins!
+Round 995: Player 1 selects PAPER
+Round 995: Player 2 selects SCISSORS
+Round: 994 Player 2 wins!
+Round 996: Player 1 selects SCISSORS
+Round 996: Player 2 selects PAPER
+Round: 995 Player 1 wins!
+Round 997: Player 1 selects ROCK
+Round 997: Player 2 selects ROCK
+Draw
+Round 998: Player 1 selects ROCK
+Round 998: Player 2 selects SCISSORS
+Round: 997 Player 1 wins!
+Round 999: Player 1 selects ROCK
+Round 999: Player 2 selects ROCK
+Draw
+Round 1000: Player 1 selects ROCK
+Round 1000: Player 2 selects PAPER
+Round: 999 Player 2 wins!
+
+Summary Statistics: 
+Number of draws:  346
+Number of times scissors won:  216
+Number of times rock won:  216
+Number of times paper won:  222
